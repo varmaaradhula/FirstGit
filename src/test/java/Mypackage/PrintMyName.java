@@ -12,6 +12,10 @@ public class PrintMyName {
 		String daughtername = "Preesha Aradhula";
 		
 		String sonname = "Ayansh Aradhula";
+
+		String momname = " Ambujakshi";
+
+		String dadname = "BhaskaraRao";
 		
 		System.out.println(" my name is : "+myname);
 
@@ -20,6 +24,10 @@ public class PrintMyName {
 		System.out.println(" my daughter name is : "+daughtername);
 		
 		System.out.println(" my son name is : "+sonname);
+
+		System.out.println(" my Mom name is : "+momname);
+
+		System.out.println(" my Dad name is : "+dadname);
 
 	}
 
