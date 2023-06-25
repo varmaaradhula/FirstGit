@@ -6,8 +6,12 @@ public class PrintMyName {
 		// TODO Auto-generated method stub
 		
 		String myname = "Radha Krishna Varma Aradhula";
+
+		String wifename = " Jyothsna Bendhe";
 		
 		System.out.println(" my name is : "+myname);
+
+		System.out.println(" my wife name is : "+wifename);
 
 	}
 
