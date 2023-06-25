@@ -17,6 +17,10 @@ public class PrintMyName {
 
 		String dadname = "BhaskaraRao";
 		
+		String broname = "Narendra Varma";
+		
+		String vadhinaname = "Gayatri";
+		
 		System.out.println(" my name is : "+myname);
 
 		System.out.println(" my wife name is : "+wifename);
@@ -28,6 +32,10 @@ public class PrintMyName {
 		System.out.println(" my Mom name is : "+momname);
 
 		System.out.println(" my Dad name is : "+dadname);
+		
+		System.out.println(" my bro name is : "+broname);
+		
+		System.out.println(" my vadhinaname name is : "+vadhinaname);
 
 	}
 
